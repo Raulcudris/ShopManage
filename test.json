@@ -1,0 +1,41 @@
+[
+    {
+        "id": 24,
+        "email": "martha.johnson@example.com",
+        "password": "MarthaPassword456",
+        "role": "customer",
+        "createdAt": "2025-03-27T15:03:55.876Z",
+        "customer": {
+            "id": 3,
+            "name": "martha",
+            "lastName": "johnson",
+            "phone": "+123456789",
+            "createdAt": "2025-03-27T15:03:55.876Z",
+            "userId": 24
+        }
+    },
+    {
+        "id": 15,
+        "email": "manager@shopmanage.com",
+        "password": "ManagerPass456!",
+        "role": "manager",
+        "createdAt": "2025-03-27T14:38:24.572Z",
+        "customer": null
+    },
+    {
+        "id": 16,
+        "email": "customer1@shop.com",
+        "password": "CustomerPass789!",
+        "role": "customer",
+        "createdAt": "2025-03-27T14:38:28.663Z",
+        "customer": null
+    },
+    {
+        "id": 14,
+        "email": "admin@shopmanage.com",
+        "password": "SecurePass123!",
+        "role": "admin",
+        "createdAt": "2025-03-27T14:38:18.475Z",
+        "customer": null
+    }
+]
